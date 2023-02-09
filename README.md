@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vinayak730
 - 👀 I’m interested in coding and contribution
-- 🌱 I’m currently learning Python and php at the moment
+- 🌱 I’m currently learning app development
 - 💞️ I’m looking to collaborate on anythin
 - 📫 How to reach me vinayakrp370@gmail.com
 
